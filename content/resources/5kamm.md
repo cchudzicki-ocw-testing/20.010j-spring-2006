@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 5kamm.pdf
-type: OCWFile
 uid: 8e6d0426-3d04-a7ba-6e96-9b05ccc94af3
 ---

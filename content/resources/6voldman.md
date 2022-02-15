@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 6voldman.pdf
-type: OCWFile
 uid: d03c438e-1092-b5d1-4a80-7950fd837ba7
 ---

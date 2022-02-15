@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 9polz.pdf
-type: OCWFile
 uid: 72824e50-b5c6-f484-b915-8041c6517ea5
 ---

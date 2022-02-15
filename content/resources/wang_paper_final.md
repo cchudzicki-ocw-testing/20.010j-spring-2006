@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: wang_paper_final.pdf
-type: OCWFile
 uid: 8b8dd991-9f76-7256-e515-12147ff9e541
 ---

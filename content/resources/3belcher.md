@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 3belcher.pdf
-type: OCWFile
 uid: 952ef436-c060-3e7f-ac9f-7c5c49310276
 ---

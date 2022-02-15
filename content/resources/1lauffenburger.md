@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 1lauffenburger.pdf
-type: OCWFile
 uid: fb0e7645-dc00-a5ae-fbdf-fbb2ee1d87f0
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 10gifford.pdf
-type: OCWFile
 uid: 3942492e-b606-c644-8082-cffb33434ca4
 ---

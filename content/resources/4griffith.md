@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 4griffith.pdf
-type: OCWFile
 uid: 8ab91053-b099-2d47-adb7-701e8a5ebf85
 ---
