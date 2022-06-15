@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes section contains an example set notes taken by a student
+  in the Spring 2005 instance of this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
